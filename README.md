@@ -13,3 +13,7 @@ I can be reached out through my [linkedIn](https://www.linkedin.com/in/hammadalq
 <h2>📖 My Medium Blog:</h2>
 
 - <b>[My medium blog](https://medium.com/@hrehman1181)</b>
+
+<h2> 🧮 Data Structures and Algorithms:</h2>
+
+- <b>[Data Structures in Java](https://github.com/Hammad-AlQuraishi/DataStructures)</b>
