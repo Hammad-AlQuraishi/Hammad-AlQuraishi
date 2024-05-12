@@ -20,3 +20,16 @@ I can be reached out through my [linkedIn](https://www.linkedin.com/in/hammadalq
 
 - <b>[Data Structures in Java](https://github.com/Hammad-AlQuraishi/DataStructures)</b>
 - <b>[K&R Malloc Implementation](https://github.com/Hammad-AlQuraishi/dynamic-memory-allocator)</b>
+
+<h2> 🧰 TechStack </h2>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft-Azure?style=flat&logo=microsoftazure&logoColor=%230078D4&color=white" width="90px"></br>
+<img alt = "GitHub" src="https://github.com/Hammad-AlQuraishi/Hammad-AlQuraishi/assets/104589055/7bb77630-d0e6-48d5-a095-ba8f1c680f75" width="40px"> <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Sentinel-blue?style=flat" width="120px"></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Virtual_Box-grey?style=flat&logo=virtualbox" width="100px"></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows_Event_Logs-black?style=flat&logo=windows&logoColor=%230078D4" width="150px"></br>
+
+
+
+
+
+
