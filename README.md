@@ -31,7 +31,7 @@ I can be reached out through my [linkedIn](https://www.linkedin.com/in/hammadalq
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server%20Configuration%20Manager-black?color=blue" width="200px"></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Internet%20Protocol%20Suite%20(TCP%2FIP)-gray" width="190px"></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/System%20Logging%20Protocol%20-darkgreen?style=flat" width="150px"></br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Security%20Information%20and%20Event%20Management-darkblue?style=flat" width="260px">
+<img alt="Static Badge" src="https://img.shields.io/badge/Security%20Information%20and%20Event%20Management-darkblue?style=flat" width="270px">
 
 
 
