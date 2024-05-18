@@ -33,6 +33,10 @@ I can be reached out through my [linkedIn](https://www.linkedin.com/in/hammadalq
 <img alt="Static Badge" src="https://img.shields.io/badge/System%20Logging%20Protocol%20-darkgreen?style=flat" width="150px"></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Security%20Information%20and%20Event%20Management-darkblue?style=flat" width="270px"></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/KeyVaults-black?style=flat&labelColor=blue&color=grey" width="80px"></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Mimikatz-green?style=flat&color=088F8F" width="65px"></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/VirusTotalAPI-black?style=flat&logo=virustotal&logoColor=%23394EFF" width="110px"></br>
+
+
  
 
 
