@@ -9,7 +9,7 @@ I can be reached out through my [linkedIn](https://www.linkedin.com/in/hammadalq
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - <b>[SOC Simulation in MS Azure](https://github.com/Hammad-AlQuraishi/SOCSimulation)</b>
-- <b>[SOC Automation Using Open Source (Still in process)](https://github.com/Hammad-AlQuraishi/Automated-SOC)</b>
+- <b>[SOC Automation Using Open Source](https://github.com/Hammad-AlQuraishi/Automated-SOC)</b>
 - <b>[DevSecOps Startup](https://github.com/sectheops)
 
 <h2>📖 My Medium Blog:</h2>
